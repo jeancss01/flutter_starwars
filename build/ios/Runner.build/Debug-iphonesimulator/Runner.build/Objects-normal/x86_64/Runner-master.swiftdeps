@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "f99df3603ec9315a89722e3c1aa754d0"
+build_time: [1585375188, 674978000]
+inputs:
+  "/Users/jeansantana/Documents/dev_flutter_apps_test/starwars/ios/Runner/AppDelegate.swift": [1581458976, 0]

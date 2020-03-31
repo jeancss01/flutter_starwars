@@ -1,0 +1,4 @@
+#Mon Mar 30 10:05:10 BRT 2020
+base.0=/Users/jeansantana/Documents/dev_flutter_apps_test/starwars/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
